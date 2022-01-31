@@ -244,5 +244,5 @@ async def ceara(ctx):
   await ctx.send(b.png)
 
 
-client.run('ODY1NDE2NzI0ODkxNTY2MDkw.YPDsIQ.b76uAXCI2jXRdIlx4jbFP68U8KM')
+client.run('tokenxd')
 
